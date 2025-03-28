@@ -1,0 +1,9 @@
+# ignore these files
+credentials.py
+*.scpt
+*.csv
+*.txt
+*.cache
+*.pyc
+*.txt
+.DS_Store
